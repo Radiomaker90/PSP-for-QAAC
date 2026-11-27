@@ -2,7 +2,7 @@
 PSP向けの音楽変換ツール。QAACを使用したMP3／FLACファイルをAAC-LC（.m4a）形式に変換します。
 
 ## 対応環境
-・Windowsのみ
+・Windows のみ
 
 ・Linux (今後対応する予定）
 
