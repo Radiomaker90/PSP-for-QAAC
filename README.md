@@ -1,2 +1,2 @@
-# PSP-for-QAAC
+# PSP for QAAC
 test
