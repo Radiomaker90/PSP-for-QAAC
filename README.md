@@ -7,7 +7,7 @@ PSP向けの音楽変換ツール。QAACを使用したMP3／FLACファイルを
 
 
 ## 対応機能
-・AAC-LC形式で出力
+・AAC-LC（.m4a）形式で出力
 
 ・44.1kHz／256kbps対応
 
